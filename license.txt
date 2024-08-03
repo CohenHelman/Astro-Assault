@@ -1,0 +1,11 @@
+Astro Assault PCB License
+
+Usage and Modification: You are granted permission to use, modify, and share this printed circuit board (PCB) design, referred to as "Astro Assault," under the following terms.
+
+Attribution: Any use or distribution of this design, whether modified or unmodified, must provide appropriate credit to the original creator, Cohen Helman. The credit should be clear and conspicuous in any derived work or when sharing the design.
+
+Non-Commercial Use: Under no circumstances may this design be used for commercial purposes. Commercial use includes, but is not limited to, selling, licensing, or otherwise deriving financial benefit from the design.
+
+No Warranty: This design is provided "as is," without any express or implied warranties. The creator is not responsible for any issues, damages, or consequences resulting from the use or modification of this design.
+
+Redistribution: If you distribute this design or derivative works based on it, you must include this license file and ensure that the same terms apply to all recipients.
